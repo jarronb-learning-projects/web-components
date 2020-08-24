@@ -1,0 +1,36 @@
+{
+  "name": "@jarronb/site-mapper",
+  "version": "1.0.5",
+  "description": "Site mapper utilizing puppeteer to generate a xml sitemap",
+  "main": "index.js",
+  "homepage": "https://github.com/jarronb/site-mapper#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarronb/site-mapper.git"
+  },
+  "author": "jarronb <baileyjarron@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "parse",
+    "sitemap",
+    "xml",
+    "robots.txt",
+    "sitemaps",
+    "crawlers",
+    "webcrawler"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "debug": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chrome-finder": "^1.0.7",
+    "puppeteer-core": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
