@@ -1,4 +1,4 @@
-# `@jarronb/web-component`
+# `@jarronb/web-components`
 
 Example compostion of web components
 
