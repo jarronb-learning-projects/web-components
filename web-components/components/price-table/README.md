@@ -11,7 +11,7 @@ Example price table web component
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <script src="../index.js"></script>
+    <script src="https://unpkg.com/@jarronb/price-table/index.js"></script>
   </head>
   <body>
     <jarronb-price-table> </jarronb-price-table>
