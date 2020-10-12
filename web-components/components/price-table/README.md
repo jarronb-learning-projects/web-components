@@ -1,9 +1,22 @@
-# `@jarronb/web-component`
+# `@jarronb/price-table`
 
-Site-mapper is a package used to generate a XML sitemap utilizing [puppeteer-core](https://www.npmjs.com/package/puppeteer-core)
+Example price table web component
 
 ## Example Usage
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="../index.js"></script>
+  </head>
+  <body>
+    <jarronb-price-table> </jarronb-price-table>
+  </body>
+</html>
 ```
 
 ### Read more [here](https://github.com/jarronb/web-component#readme)
