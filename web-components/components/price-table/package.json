@@ -1,0 +1,17 @@
+{
+  "name": "@jarronb/price-table",
+  "version": "0.0.1",
+  "description": "JarronB web component library",
+  "main": "index.js",
+  "homepage": "https://github.com/jarronb/web-components/components/price-table#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarronb/web-components/components/price-table.git"
+  },
+  "author": "jarronb <baileyjarron@gmail.com>",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
